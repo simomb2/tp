@@ -3,4 +3,5 @@ public class Etudiant {
     private String nom;
     private String prenom;
     private int note;
+    private double notes;
 }
