@@ -2,7 +2,6 @@ public class Etudiant {
     private int age;
     private String nom;
     private String prenom;
-    private int note;
     private double notes;
     
     public static double calculerMoyenne(List<Etudiant> listeEtudiants) {
