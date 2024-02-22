@@ -6,7 +6,7 @@ public class Etudiant {
     
     public static double calculerMoyenne(List<Etudiant> listeEtudiants) {
         if (listeEtudiants == null || listeEtudiants.isEmpty()) {
-            System.out.println("hadchi dyal othmane ched fih a simo");
+            System.out.println("hadchi dyal othmane ");
             return 0.0;
         }
         double sommeNotes = 0.0;
